@@ -1,16 +1,25 @@
 Privacy Policy
+
 Last updated: August 27, 2021
+
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.
+
 Interpretation and Definitions
+
 Interpretation
+
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
 Definitions
+
 For the purposes of this Privacy Policy:
 Account means a unique account created for You to access our Service or parts of our Service.
 Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Attendancy app.
 Cookies are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
+
 Country refers to: France
+
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 Personal Data is any information that relates to an identified or identifiable individual.
 Service refers to the Website.
@@ -21,14 +30,19 @@ You means the individual accessing or using the Service, or the company, or othe
 
 
 Collecting and Using Your Personal Data
+
 Types of Data Collected
+
 Personal Data
+
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 Email address to connect to google account
 Usage Data
 When using the service, usage data is automatically retrieved from your google account but not used at any time except for the data synchronization online.
 
+
 Tracking Technologies and Cookies
+
 We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
 Cookies are not shared with other parties, they are used to keep your preferences
 Cookies or Browser Cookies. A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent 
@@ -49,7 +63,9 @@ Purpose: These Cookies allow us to remember choices You make when You use the We
 For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
 
 
+
 Use of Your Personal Data
+
 The Company may use Personal Data for the following purposes:
 To synchronize data into the online google drive file
 To provide and maintain our Service, including to monitor the usage of our Service.
@@ -61,7 +77,9 @@ The Company will retain Your Personal Data only for as long as is necessary for 
 
 
 
+
 Transfer of Your Personal Data
+
 Your personal data is never transferred to the company as your data is stored locally on your device. None of your personal data information is shared online.
 Disclosure of Your Personal Data
 Business Transactions
@@ -74,10 +92,14 @@ Security of Your Personal Data
 The security of Your Personal Data is important to Us, as everything is stored locally, nothing is transferred online. But remember while We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute 100% security.
 
 
+
 Children's Privacy
+
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
+
 Contact Us
+
 If you have any questions about this Privacy Policy, You can contact us:
 By email: attendancy.app@gmail.com
