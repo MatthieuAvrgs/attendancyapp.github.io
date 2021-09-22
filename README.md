@@ -1,11 +1,11 @@
-Privacy Policy
+# Privacy Policy
 
-Last updated: August 27, 2021
+Last updated: September 22, 2021
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.
 
-Interpretation and Definitions
+# Interpretation and Definitions
 
 Interpretation
 
@@ -29,7 +29,7 @@ Website refers to Attendancy app, accessible from https://play.google.com/store/
 You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 
-Collecting and Using Your Personal Data
+# Collecting and Using Your Personal Data
 
 Types of Data Collected
 
@@ -41,7 +41,7 @@ Usage Data
 When using the service, usage data is automatically retrieved from your google account but not used at any time except for the data synchronization online.
 
 
-Tracking Technologies and Cookies
+# Tracking Technologies and Cookies
 
 We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
 Cookies are not shared with other parties, they are used to keep your preferences
@@ -64,7 +64,7 @@ For more information about the cookies we use and your choices regarding cookies
 
 
 
-Use of Your Personal Data
+# Use of Your Personal Data
 
 The Company may use Personal Data for the following purposes:
 To synchronize data into the online google drive file
@@ -78,7 +78,7 @@ The Company will retain Your Personal Data only for as long as is necessary for 
 
 
 
-Transfer of Your Personal Data
+# Transfer of Your Personal Data
 
 Your personal data is never transferred to the company as your data is stored locally on your device. None of your personal data information is shared online.
 Disclosure of Your Personal Data
@@ -93,13 +93,13 @@ The security of Your Personal Data is important to Us, as everything is stored l
 
 
 
-Children's Privacy
+# Children's Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
 
-Contact Us
+# Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 By email: attendancy.app@gmail.com
